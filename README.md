@@ -27,7 +27,7 @@ start it via `ensure DokusCore--Instruments`.
 # Plugin Information
 This plugin lets you play various instruments yourself, or you can play<br>
 an instrument automatically via a Midi file. Enjoy yourself and others<br>
-with some fine music.
+with some fine music. You open the UI with `/instrument`
 
 # Credits
 This plugin is not made by the DokusCore team! All credits go to KiBook <br>
