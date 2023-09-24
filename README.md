@@ -29,6 +29,7 @@ This plugin lets you play various instruments yourself, or you can play<br>
 an instrument automatically via a Midi file. Enjoy yourself and others<br>
 with some fine music. You open the UI with `/instrument`
 
+---
 # Credits
 This plugin is not made by the DokusCore team! All credits go to KiBook <br>
 for making this amazing plugin. You can find the original plugin [Here](https://github.com/kibook/redm-instruments)
@@ -38,10 +39,3 @@ for making this amazing plugin. You can find the original plugin [Here](https://
 On our [Discord](https://discord.com/invite/ksQRq25Hcz) you can find all Information about this<br>
 project, feel free to join. Here you can also interact with other playing and testing<br>
 the Core, as well as giving your suggestions and opinions.
-
----
-# Searching for Developers
-Do you enjoy developing, and would you like to take part into the DokusCore<br>
-project ? Join our [Discord](https://discord.io/dokuscore) and contact one of the Administrators.
-
----
